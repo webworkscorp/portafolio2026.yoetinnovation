@@ -1,11 +1,9 @@
-<div align="center">
+# Yoet Innovation Group
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Abra dist/index.html o ejecute node preview.cjs para una vista local en http://127.0.0.1:4173.
 
-  <h1>Built with AI Studio</h2>
+El portafolio presenta siete proyectos: Sonría Studio, Vargas & Asociados, Cumbre Propiedades, Forja, Pura Ola, Espacio Claro y Punto Digital.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+Las cinco imágenes suministradas se conservan exactamente como los archivos originales, sin reducción, recorte ni recompresión. Se muestran completas y adaptadas al ancho de pantalla. Espacio Claro y Punto Digital conservan sus imágenes anteriores.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+Los textos están en dist/projects.js y las imágenes en dist/assets/projects. Las fuentes editables de Espacio Claro y Punto Digital están en composition-source.

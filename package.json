@@ -1,0 +1,15 @@
+{
+  "name": "yoet-innovation-group-web",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Portafolio de diseño web de Yoet Innovation Group",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build completed')\""
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
